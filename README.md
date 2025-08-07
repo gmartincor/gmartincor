@@ -11,13 +11,14 @@
 
 ## 🚀 AI Engineer & Full-Stack Developer
 
-I build intelligent, automated systems that solve real-world business problems. My journey from financial analysis to technology gives me a unique perspective: I don't just see code; I see the strategic "why" behind every feature and the measurable impact it must deliver.
+I bridge the gap between complex business challenges and intelligent automation. With a background in financial analysis, I focus on the strategic "why" behind every technical solution, ensuring that AI systems deliver tangible results.
 
-My primary focus is architecting and developing sophisticated AI agents using **LangChain** and **LangGraph**. This AI core is supported by a solid foundation in end-to-end software engineering, where I leverage **Python**, **Django**, **FastAPI**, **React**, and **PostgreSQL** to create robust and scalable applications.
+My core expertise is architecting and deploying autonomous AI agents using **LangChain** and **LangGraph**. I build these intelligent cores on a solid full-stack foundation of `Python` (`FastAPI`, `Django`), `React`, and `PostgreSQL`, creating robust, end-to-end applications.
 
-- 🤖 I'm passionate about building autonomous systems and exploring the frontiers of LLMs.
-- 🏗️ I enjoy designing scalable architectures and robust APIs.
-- 💡 I'm always open to collaborating on innovative AI projects and open-source initiatives.
+**What I build:**
+- **Autonomous Agents:** Designing and implementing multi-agent workflows for tasks like research, data analysis, and process automation.
+- **Scalable APIs:** Engineering secure and efficient APIs that serve as the backbone for AI-powered services.
+- **Full-Stack Solutions:** Integrating AI models into seamless user-facing applications with modern front-ends.
 
 ---
 
