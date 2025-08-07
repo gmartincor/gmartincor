@@ -62,25 +62,6 @@ I have hands-on experience building **scalable, high-quality solutions** with a 
 
 ---
 
-## 🚀 Featured Projects
-
-### **🏦 TimeOverflow Alliance System**
-**Full-Stack Developer** | *Open Source Contribution*
-- **Tech Stack:** Ruby on Rails, PostgreSQL, JavaScript, SCSS, Highcharts, Leaflet.js
-- Built an alliance system enabling cross-organization collaboration for time banking communities
-- Developed advanced data visualization and geospatial mapping features
-- Comprehensive test coverage with RSpec and Capybara
-- **Impact:** Enabled secure time transfers between multiple organizations
-
-### **🏥 Healthcare ML Integration Platform**
-**Software Engineer** | *Kerma Digital Healthcare*
-- **Tech Stack:** Django, Svelte, RESTful APIs, ML Models
-- Engineered robust APIs connecting machine learning models with patient applications
-- Developed responsive full-stack healthcare applications
-- Optimized database queries improving performance by 40%
-- Implemented comprehensive testing for critical healthcare systems
-
----
 
 ## 💼 Professional Experience
 
