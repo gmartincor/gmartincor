@@ -1,7 +1,7 @@
 # 👋 Guillermo Martín Correa
-**Full-Stack Developer & Data Scientist** 
+** AI Engineer & Full-Stack Developer** 
 
-*Building scalable solutions with Python, Ruby, and modern web technologies*
+*Building intelligent applications and AI agents with a full-stack engineering foundation*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-martin-correa)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermomc007@gmail.com)
@@ -9,60 +9,52 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 AI Engineer & Full-Stack Developer
 
-I'm a results-driven **Full-Stack Developer** and **Data Scientist** with a strong foundation in Business Administration and Management. Currently completing my **Master's in Software Development** and pursuing a **Bachelor's in Data Science**. 
+I build intelligent, automated systems that solve real-world business problems. My journey from financial analysis to technology gives me a unique perspective: I don't just see code; I see the strategic "why" behind every feature and the measurable impact it must deliver.
 
-I have hands-on experience building **scalable, high-quality solutions** with a passion for **Big Data**, **AI**, **Cloud**, and **API-driven systems**. I thrive in multidisciplinary teams, embrace agile methodologies, and am always eager to learn and adapt to emerging technologies.
+My primary focus is architecting and developing sophisticated AI agents using **LangChain** and **LangGraph**. This AI core is supported by a solid foundation in end-to-end software engineering, where I leverage **Python**, **Django**, **FastAPI**, **React**, and **PostgreSQL** to create robust and scalable applications.
 
-**My mission:** Build impactful software that solves real-world problems.
+- 🤖 I'm passionate about building autonomous systems and exploring the frontiers of LLMs.
+- 🏗️ I enjoy designing scalable architectures and robust APIs.
+- 💡 I'm always open to collaborating on innovative AI projects and open-source initiatives.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
 
-### **Programming Languages**
+### **AI Engineering**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-008080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjAyIDEyYy41Mi0uNzQgMS4zMS0xLjI0IDIuMi0xLjQxYTQgNCAwIDAgMSAzLjU0IDUuMzhMMTcuNjggMTdoLTEuM2wtMS4zMi0yLjAzYy0uMi0uMzEtLjUxLS41LS44NC0uNWgtMi4xM2ExIDEgMCAwIDAtMSAxVjE3SDl2LTMuMjZhMy41IDMuNSAwIDAgMSAzLjUtMy41aC41MnptLTQuNjYgMEExLjUgMS41IDAgMCAxIDcgMTMuNXYxLjhoMS4zMnYtMmMwLS44My42Ny0xLjIgMS41LTEuMmgxLjQ1Yy41NCAwIC45My4xNyAxLjIuNDZMMTMuMiAxMy40bDExLjI4IDEuNzNhNC41IDQuNSAwIDEgMC03LjY5LTYuMjhsLTEuNjgtMi42TDQgNC4yN3oiLz48L3N2Zz4=)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Web Development**
+### **Backend Development**
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Data Science & Analytics**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-### **Databases**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **DevOps & Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **Project Management**
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
-
-
 ## 💼 Professional Experience
 
 ### **TimeOverflow (Open Source Project)**
