@@ -131,8 +131,8 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 📧 **Email:** [guillermomc007@gmail.com](mailto:guillermomc007@gmail.com)  
 💼 **LinkedIn:** [Guillermo Martín Correa](https://linkedin.com/in/guillermo-martin-correa)  
-📱 **Phone:** +34 686 54 95 94  
-📍 **Location:** Motril, Spain (Open to remote opportunities)
+📱 **Phone:** +61 482 714 835  
+📍 **Location:** Perth WA, Australia (Open to remote opportunities)
 
 </div>
 
