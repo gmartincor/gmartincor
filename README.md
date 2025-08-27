@@ -130,7 +130,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 <div align="center">
 
 📧 **Email:** [guillermomc007@gmail.com](mailto:guillermomc007@gmail.com)  
-💼 **LinkedIn:** [Guillermo Martín Correa](https://linkedin.com/in/guillermo-martin-correa)  
+💼 **LinkedIn:** [Guillermo Martín Correa](www.linkedin.com/in/guillermo-martin-correa-b623b0134)  
 📱 **Phone:** +61 482 714 835  
 📍 **Location:** Perth WA, Australia (Open to remote opportunities)
 
