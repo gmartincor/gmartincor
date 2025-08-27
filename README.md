@@ -3,7 +3,7 @@
 
 *Building intelligent applications and AI agents with a full-stack engineering foundation*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-martin-correa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-martin-correa-b623b0134/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermomc007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmartincor)
 
@@ -130,7 +130,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 <div align="center">
 
 📧 **Email:** [guillermomc007@gmail.com](mailto:guillermomc007@gmail.com)  
-💼 **LinkedIn:** [Guillermo Martín Correa](www.linkedin.com/in/guillermo-martin-correa-b623b0134)  
+💼 **LinkedIn:** [Guillermo Martín Correa](https://www.linkedin.com/in/guillermo-martin-correa-b623b0134/)  
 📱 **Phone:** +61 482 714 835  
 📍 **Location:** Perth WA, Australia (Open to remote opportunities)
 
