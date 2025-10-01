@@ -1,5 +1,5 @@
 # 👋 Guillermo Martín Correa
-** AI Engineer & Full-Stack Developer** 
+** Full-Stack Software Developer** 
 
 *Building intelligent applications and AI agents with a full-stack engineering foundation*
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 AI Engineer & Full-Stack Developer
+## 🚀  Full-Stack Software Developer
 
 I bridge the gap between complex business challenges and intelligent automation. With a background in financial analysis, I focus on the strategic "why" behind every technical solution, ensuring that AI systems deliver tangible results.
 
