@@ -1,7 +1,6 @@
 # 👋 Guillermo Martín Correa
 **Full-Stack Software Developer** 
 
-*Building intelligent applications and AI agents with a full-stack engineering foundation*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-martin-correa-b623b0134/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillermomc007@gmail.com)
@@ -13,7 +12,7 @@
 
 I’m a Full-Stack Software Developer passionate about building reliable, scalable, and user-focused applications. My background in business and financial analysis gives me a unique perspective: I design solutions that not only work technically, but also create real business value.
 
-I have experience delivering end-to-end applications with technologies like `Python` (`FastAPI`, `Django`), `React`, and `PostgreSQL`, while also exploring how AI and automation can enhance products. From designing secure APIs and data models to developing modern frontends, I aim to bridge engineering with practical impact.
+I have experience delivering end-to-end applications , while also exploring how AI and automation can enhance products. From designing secure APIs and data models to developing modern frontends, I aim to bridge engineering with practical impact.
 
 **What I build:**
 
